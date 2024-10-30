@@ -1,0 +1,6 @@
+# Install python3.11
+# 
+python-dotenv==1.0.1
+PyPDF2
+chainlit==1.2.0
+quivr_core @ file:///${PROJECT_ROOT}/../../core
